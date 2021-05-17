@@ -34,6 +34,7 @@ def pushRes(post, keyword):
 
 '''
 推送方式1： 摩卡酱TG
+文档：https://www.yuque.com/wanglingdadadajuntuan/moka/aq33zp
 '''
 def mokaPush(title, text):
     # 1. 摩卡酱TG通知
