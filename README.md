@@ -11,7 +11,6 @@ Python
 前置环境： Python3 / pip / git
 
 ### 1. 新帖监控推送
-![image](https://gitee.com/Sage668/hostloc_tools/blob/master/img/1.png)
 
     0. git clone https://gitee.com/Sage668/hostloc_tools.git
 
@@ -24,3 +23,4 @@ Python
     3. pip install requests
     
     4. python newPostPush.py
+![Image text](img/1.png)
