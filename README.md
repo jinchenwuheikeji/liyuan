@@ -10,7 +10,7 @@ Python
 
 前置环境： Python3 / pip / git
 
-### 1. 新帖监控推送
+### 1. HostLoc新帖监控推送
 
     0. git clone https://gitee.com/Sage668/hostloc_tools.git
 
