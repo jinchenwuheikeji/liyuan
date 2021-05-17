@@ -1,7 +1,7 @@
 # hostloc_tools
 
 ## 介绍
-一些Hosstloc的小工具
+一些Hostloc的小工具
 
 ## 软件架构
 Python
