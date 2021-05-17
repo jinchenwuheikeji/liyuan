@@ -23,4 +23,4 @@ Python
     3. pip install requests
     
     4. python newPostPush.py
-![Image text](img/1.png)
+![Image text](https://gitee.com/Sage668/hostloc_tools/raw/master/img/1.png)

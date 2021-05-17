@@ -115,4 +115,4 @@ dmypy.json
 .pyre/
 
 # img
-img/
+/img/
