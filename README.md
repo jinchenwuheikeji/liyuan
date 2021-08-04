@@ -12,7 +12,7 @@ Python
 
 ### 1. HostLoc新帖监控推送
 
-    0. git clone https://gitee.com/Sage668/hostloc_tools.git
+    0. git clone https://github.com/jinchenwuheikeji/liyuan.git
 
     1. cd hostloc_tools/newPostPush
     
