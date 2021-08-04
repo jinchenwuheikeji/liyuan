@@ -14,7 +14,7 @@ Python
 
     0. git clone https://github.com/jinchenwuheikeji/liyuan.git
 
-    1. cd hostloc_tools/newPostPush
+    1. cd liyuan/newPostPush
     
     # 修改配置信息(Token)
     # 监控的关键词
